@@ -73,7 +73,7 @@ This is an **independent descriptive analytics project**. Recommendations are pr
 
 - [Power BI dashboard](ServiceFlow_Dashboard.pbix)
 - [Original four-page dashboard export](ServiceFlow_Report.pdf)
-- [Enhanced project report with executive overview](ServiceFlow_Enhanced_Project_Report.pdf)
+- [Enhanced project report with executive overview](ServiceFlow_Project_Report.pdf)
 
 ## Author
 
